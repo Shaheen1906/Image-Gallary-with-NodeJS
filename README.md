@@ -12,7 +12,7 @@ This project implements a simple image gallery with a Node.js backend. Users can
 
 ```
 - image-api
-  - app.js
+  - index.js
   - public
     - css
        - styles.css
@@ -35,7 +35,7 @@ This project implements a simple image gallery with a Node.js backend. Users can
 2. Clone the repository to your local machine.
 3. Open a terminal and navigate to the project directory.
 4. Run `npm install` to install the required dependencies.
-5. Start the Node.js server with `node app.js`.
+5. Start the Node.js server with `node index.js`.
 
 ## Usage
 
